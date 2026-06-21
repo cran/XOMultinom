@@ -2,8 +2,8 @@ Type: Package
 Package: XOMultinom
 Title: Exact Distributions of Some Functions of the Ordered Multinomial
         Counts
-Version: 0.8.7
-Date: 2026-05-28
+Version: 0.9.0
+Date: 2026-06-22
 Authors@R: c(
     person("Sergio", "Venturini", , "sergio.venturini@unicatt.it", role = c("aut", "cre")),
     person("Marco", "Bonetti", , "marco.bonetti@unibocconi.it", role = "ctb")
@@ -33,8 +33,8 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 8.0.0
 NeedsCompilation: yes
-Packaged: 2026-05-28 09:26:17 UTC; Sergio
+Packaged: 2026-06-21 10:07:10 UTC; Sergio
 Author: Sergio Venturini [aut, cre],
   Marco Bonetti [ctb]
 Repository: CRAN
-Date/Publication: 2026-06-01 08:40:12 UTC
+Date/Publication: 2026-06-21 13:40:06 UTC
